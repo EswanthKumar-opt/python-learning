@@ -17,7 +17,7 @@ def sample_fn():
 # obj = This_is_dec(sample_fn) // normal way
 # obj()
 
-sample_fn()
+# sample_fn()
 
 
 
